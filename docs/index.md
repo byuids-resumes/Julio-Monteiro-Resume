@@ -3,65 +3,118 @@ layout: cv
 title: Julio Monteiro
 ---
 # Julio Monteiro
-Computer Science Student at BYU-Idaho
+Computer Science Student - AI | Public Speaker |Programmer | Executive
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="juliocesarmonreiro2.0@outlook.com">juliocesarmonreiro2.0@outlook.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/juliocmonteiro">LinkedIn</a>
+| <a href="https://github.com/juliobras">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected 2023`
+__Computer Science (Bachelor`s)__, Rexburg, ID
+- Brigham Young University - Idaho
 
-- Full academic scholarship with 4.0 GPA
+`Expected 2023`
+__Software Engeneering (Bachelor`s)__, Rexburg, ID
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`Expected 2023`
+__Machine Learning (Certificate)__, Rexburg, ID
 
-- 4.0 Major GPA
+- Activities and societies: Society of Artificial Intelligence - BYUI
+- Data Science Programming
+- Machine Learning and Data Mining
+- Big Data Programming and Analytics
+- Applied Calculus for Data Analysis
+- Linear algebra
+
+`Expected 2023`
+__Project Management (Certificate)__, Rexburg, ID
 
 
+
+`July 2021`
+__Applied Technology (Associate of Science)__, Rexburg, ID
+- Configure and resolve issues related to software, network, and security in desktop support.
+- Design and develop computer programs.
+- Design and develop web pages, websites, and applications.
+- Design and develop relational databases and applications.
+- Install, configure and troubleshoot network routers, switches, and servers.
 ## Related Experience
 
-### Internships
+`July 2021`
+__Computer Programming (Certificate)__, Rexburg, ID
+- Write programs to accomplish meaningful tasks in a variety of domains and programming languages (Python, Java, JavaScript, PHP, CSS).
+- Android application development.
+- Create websites that are visually appealing and effective.
+- Developing dynamic web pages that follow industry standards and best practices.
+- Demonstrate skills in HTML, CSS, Javascript, databases and server-side development using PHP.
+- Write operational code to pass and get data from a server, including PHP and JavaScript.
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`Expected 2023`
+__Computer Support (Certificate)__, Rexburg, ID
+- Identify and describe the function of key hardware in a desktop or laptop computer.
 
-### Data Science Lead
+- Design and configure a basic corporate network, identifying the key hardware and infrastructure devices needed to connect systems together.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Identify and configure basic security settings to protect a workstation or server.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Define and configure key security policies for a corporate network.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Troubleshoot basic networking and system configuration problems.
+
+- Demonstrate professional communication.
+- Create professional spreadsheets using advanced functionality to visualize and solve business problems.
+
+
+`July 2021`
+__Leadership and Management__, Sydney, Australia
+
+- Develop and use emotional intelligence
+- Manage operational plan
+- Lead and manage effective workplace relationships
+- Lead and manage team effectiveness
+- Manage quality customer service
+- Support the recruitment, selection and induction of staff
+- Undertake project work
+- Manage risk
+- Manage personal work priorities and professional development
+- Manage meetings
+- Develop and manage performance management processes
+- Manage workforce planning
+
+### Work Experience
+
+`Oct 2021 - Present`
+__Executive Assistant__ - Braus Fight USA Corp
+
+- Provide high-level support to the President of the company.
+- Manage client or partner relationships.
+- Supervise or train clerical staff.
+- Prepare financial statements, reports, memos, invoices letters, and other documents.
+- Researching and conducting data to prepare documents for review and presentation by boards of directors, committees, and executives.
+- Create and implement marketing strategies.
+- Provide general administrative/executive support.
+- Oversee operations in various departments.
+
+`Aug 2019 - Aug 2020`
+__Procurement Buyer__, GoodYear Rubber and Tyre Company
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
 - Established standardized SQL calls and connections for PowerBI dashboards
 - Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`Mar 2019 - Jun 2019`
+__English teacher__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Teach English as a second language to kids from primary, elementary, and high school.
 
 `April 2027 - July 2027`
 __Pinnacle Management Group__, 
