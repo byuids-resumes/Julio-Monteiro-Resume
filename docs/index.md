@@ -61,15 +61,10 @@ __Computer Programming (Certificate)__, Brigham Young University - Idaho
 `Expected 2023`
 __Computer Support (Certificate)__, Rexburg, ID
 - Identify and describe the function of key hardware in a desktop or laptop computer.
-
 - Design and configure a basic corporate network, identifying the key hardware and infrastructure devices needed to connect systems together.
-
 - Identify and configure basic security settings to protect a workstation or server.
-
 - Define and configure key security policies for a corporate network.
-
 - Troubleshoot basic networking and system configuration problems.
-
 - Demonstrate professional communication.
 - Create professional spreadsheets using advanced functionality to visualize and solve business problems.
 
