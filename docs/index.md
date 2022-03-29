@@ -17,14 +17,15 @@ Computer Science Student - AI | Public Speaker |Programmer | Executive
 ## Education
 
 `Expected 2023`
-__Computer Science (Bachelor`s)__, Rexburg, ID
-- Brigham Young University - Idaho
+__Computer Science (Bachelor`s)__ -  Brigham Young University - Idaho
+ 
+
 
 `Expected 2023`
-__Software Engeneering (Bachelor`s)__, Rexburg, ID
+__Software Engeneering (Bachelor`s)__, Brigham Young University - Idaho
 
 `Expected 2023`
-__Machine Learning (Certificate)__, Rexburg, ID
+__Machine Learning (Certificate)__, Brigham Young University - Idaho
 
 - Activities and societies: Society of Artificial Intelligence - BYUI
 - Data Science Programming
@@ -34,12 +35,12 @@ __Machine Learning (Certificate)__, Rexburg, ID
 - Linear algebra
 
 `Expected 2023`
-__Project Management (Certificate)__, Rexburg, ID
+__Project Management (Certificate)__, Brigham Young University - Idaho
 
 
 
 `July 2021`
-__Applied Technology (Associate of Science)__, Rexburg, ID
+__Applied Technology (Associate of Science)__, Brigham Young University - Idaho
 - Configure and resolve issues related to software, network, and security in desktop support.
 - Design and develop computer programs.
 - Design and develop web pages, websites, and applications.
@@ -48,7 +49,7 @@ __Applied Technology (Associate of Science)__, Rexburg, ID
 ## Related Experience
 
 `July 2021`
-__Computer Programming (Certificate)__, Rexburg, ID
+__Computer Programming (Certificate)__, Brigham Young University - Idaho
 - Write programs to accomplish meaningful tasks in a variety of domains and programming languages (Python, Java, JavaScript, PHP, CSS).
 - Android application development.
 - Create websites that are visually appealing and effective.
@@ -117,21 +118,15 @@ __English teacher__
 - Teach English as a second language to kids from primary, elementary, and high school.
 
 `April 2027 - July 2027`
-__Pinnacle Management Group__, 
+__Specialist in Public Relation (Missionary)__, 
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+- Responsible for local and regional groups of volunteers.
+- As one of the team leaders, I had to follow up with the work done by more than 15 people.
+- I also organized and led weekly coordination and training meetings.
+- Through this experience, I developed training and organizational abilities.
+- Time and relations management
+- I learned how to set short, medium and long term goals in order to increase efficiency.
+- Coordinated schedules and assignments for volunteer staff, maximizing team efficiency, and effectiveness. 
 
 
 
